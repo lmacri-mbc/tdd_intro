@@ -14,6 +14,9 @@ def test_task1():
             Decimals
 
     '''
+    # Arrange
+    # Act
+    # Assert
 
 
 ############################################################
@@ -26,7 +29,9 @@ def test_task2():
             An odd number
             Zero
     '''
-
+    # Arrange
+    # Act
+    # Assert
 
 ############################################################
 
@@ -38,7 +43,9 @@ def test_task3():
             Second number larger
             Both numbers equal
     '''
-
+    # Arrange
+    # Act
+    # Assert
 ############################################################
 
 
@@ -49,8 +56,11 @@ def test_task4():
             A list containing 1
             A list containing a negative number
     '''
+    # Arrange
+    # Act
+    # Assert
 
-
+########################################################################
 # Exercise 5: Count Vowels
 # Function name: count_vowels(text)
 # Requirements
